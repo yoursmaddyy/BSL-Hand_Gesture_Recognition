@@ -1,0 +1,5 @@
+venv/
+*.h5
+.vscode/
+plots/
+models/
