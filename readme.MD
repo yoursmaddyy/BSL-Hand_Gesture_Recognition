@@ -78,7 +78,7 @@ MobileNetV2 → Softmax (34 classes)
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/bsl-gesture-recognition.git
+git clone https://github.com/yoursmaddyy/bsl-gesture-recognition.git
 cd bsl-gesture-recognition
 ```
 
