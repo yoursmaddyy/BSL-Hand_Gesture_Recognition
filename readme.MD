@@ -130,7 +130,6 @@ scikit-learn
 
 ## ⚠️ Notes
 
-- The trained model file (`mobilenetv2_bsl_final.h5`) is not included in this repo due to file size. Train using `notebook.ipynb` on Kaggle with the dataset linked above, or contact for access.
 - MediaPipe `hand_landmarker.task` is automatically downloaded at first run.
 - GPU recommended for training (Tesla T4 used via Kaggle).
 
